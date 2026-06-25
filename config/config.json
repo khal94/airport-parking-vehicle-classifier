@@ -1,0 +1,8 @@
+{
+    "model_path": "../models/model.onnx",
+    "input_folder": "../input_images",
+    "output_csv": "../output/results.csv",
+    "output_folder": "../output",
+    "confidence_threshold": 0.50,
+    "image_size": 640
+}
